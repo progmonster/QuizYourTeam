@@ -22,7 +22,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "history": "4.7.2",
     "immer": "^3.1.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "meteor-node-stubs": "^0.4.1",
     "moment": "^2.24.0",
     "perfect-scrollbar": "1.4.0",
